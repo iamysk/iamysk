@@ -1,6 +1,6 @@
 ### Hi there, I'm Yogesh - aka [iamysk][website] 👋
 
-## I'm a Student, Researcher and Developer
+## I'm a Ph.D. student (Computational Biology) at IIT Delhi
 - 🔭 I’m currently working on a VS Code!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
