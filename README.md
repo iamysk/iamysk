@@ -3,7 +3,6 @@
 ## I'm a Ph.D. student (Computational Biology) at IIT Delhi
 - 🔭 I’m currently working on a ML assisted Drug recommendation system
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 
 ### Connect with me:
 
@@ -35,7 +34,3 @@
 [youtube]: https://youtube.com/iamysk
 [instagram]: https://www.instagram.com/iam_ysk/
 [linkedin]: https://www.linkedin.com/in/yogesh-kalakoti-78b80796/
-[webdevplaylist]: http://web.iitd.ac.in/~bez187512/
-[jsplaylist]: http://web.iitd.ac.in/~bez187512/
-[cssplaylist]: http://web.iitd.ac.in/~bez187512/
-[reactplaylist]: http://web.iitd.ac.in/~bez187512/
