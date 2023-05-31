@@ -1,7 +1,8 @@
-### YOGESH KALAKOTI- aka [iamysk][website] 👋
+### YOGESH KALAKOTI
 
 ## Engineer/PostDoc at IFM, LIU (SWEDEN)
-- 🔭 I’m currently working on a ML assisted Drug recommendation system
+- ML assisted Drug recommendation system
+- Computational structural biology
 
 ### Connect with me:
 
