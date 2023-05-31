@@ -1,6 +1,6 @@
-### YOGESH KALAKOTI
+## YOGESH KALAKOTI
 
-## Engineer/PostDoc at IFM, LIU (SWEDEN)
+### Engineer/PostDoc at IFM, LIU (SWEDEN)
 - ML assisted Drug recommendation system
 - Computational structural biology
 
