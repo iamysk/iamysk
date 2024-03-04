@@ -20,4 +20,5 @@
 [youtube]: https://youtube.com/iamysk
 [instagram]: https://www.instagram.com/iam_ysk/
 [linkedin]: https://www.linkedin.com/in/yogesh-kalakoti-78b80796/
-[webdevplaylist]: http://web.iitd.ac.in/~bez187512/
+[webdevplaylist]: [https://iamysk.github.io/]
+[webdevplaylist]: [https://liu.se/medarbetare/yogka98]
