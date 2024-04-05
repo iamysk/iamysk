@@ -1,7 +1,7 @@
 ## YOGESH KALAKOTI
 
-### Engineer/PostDoc at IFM, LiU (Sweden)
-- ML assisted Drug recommendation system
+### Wenner-Gren postdoctoral fellow at IFM, LiU (Sweden)
+- Functional genomics, Protein conformations, Machine learning
 - Computational structural biology
 
 ### Connect with me:
