@@ -1,5 +1,5 @@
 ## YOGESH KALAKOTI
 
-### Wenner-Gren postdoctoral fellow at IFM, LiU (Sweden)
+### Senior Machine learning scientist @Elucidata
 - Functional genomics, Protein conformations, Machine learning
 - Computational structural biology
